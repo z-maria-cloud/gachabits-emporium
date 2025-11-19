@@ -1,4 +1,5 @@
 {
     "weapon_type": "weapons",
-    "weapon_rarity": "rarity"
+    "weapon_rarity": "rarity",
+    "spell_type": "elements"
 }
